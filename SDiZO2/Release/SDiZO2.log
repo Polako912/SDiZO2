@@ -1,0 +1,15 @@
+﻿  TimeMeasure.cpp
+c:\users\asus\downloads\timemeasure.cpp(73): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  AdjacencyList.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\adjacencylist.cpp(57): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\adjacencylist.cpp(91): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\adjacencylist.cpp(109): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Main.cpp
+  IncidenceMatrix.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\incidencematrix.cpp(87): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\incidencematrix.cpp(102): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Menu.cpp
+  Trwa generowanie kodu
+  All 625 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  SDiZO2.vcxproj -> C:\Users\asus\Documents\Visual Studio 2017\Projects\SDiZO2\Release\SDiZO2.exe

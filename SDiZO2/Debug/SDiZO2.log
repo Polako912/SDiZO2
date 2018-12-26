@@ -1,0 +1,13 @@
+﻿  TimeMeasure.cpp
+c:\users\asus\downloads\timemeasure.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  AdjacencyList.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\adjacencylist.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\adjacencylist.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\adjacencylist.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  IncidenceMatrix.cpp
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\incidencematrix.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\documents\visual studio 2017\projects\sdizo2\sdizo2\incidencematrix.cpp(100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+  Generating Code...
+  SDiZO2.vcxproj -> C:\Users\asus\Documents\Visual Studio 2017\Projects\SDiZO2\Debug\SDiZO2.exe
